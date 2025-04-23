@@ -47,15 +47,15 @@
             }
         }
     ],
-    "blogs": [
+    "posts": [
         {
-            "userid": 1,
+            "userId": 1,
             "id": 1,
             "title": "1st Blog Post",
             "body": "This is the body of the 1st blog post."
         },
         {
-            "userid": 2,
+            "userId": 2,
             "id": 2,
             "title": "2nd Blog Post",
             "body": "This is the body of the 2nd blog post."
