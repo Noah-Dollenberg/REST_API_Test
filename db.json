@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Noah Dollenberg",
+            "username": "NJD Films",
+            "email": "u24596142@tuks.co.za",
+            "address": {
+                "street": "University",
+                "suite": "Apt. 556",
+                "city": "Pretoria",
+                "zipcode": "0181",
+                "geo": {
+                    "lat": "-37.345678",
+                    "lng": "81.345678"
+                }
+            },
+            "phone": "07147596445",
+            "website": "up.ac.za",
+            "company": {
+                "name": "University of Pretoria",
+                "catchphrase": "Studying hard or hardly studying",
+                "bs": "education, harness, sleeping"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Michael Tarr",
+            "username": "GamerLegend",
+            "email": "michael.tarr@up.ac.za",
+            "address": {
+                "street": "Kulas Light",
+                "suite": "Apt. 342",
+                "city": "Pretoria",
+                "zipcode": "1452",
+                "geo": {
+                    "lat": "-54.143253",
+                    "lng": "84.190452"
+                }
+            },
+            "phone": "07234164829",
+            "website": "up.ac.za",
+            "company": {
+                "name": "University of Pretoria",
+                "catchphrase": "Give Noah 100%",
+                "bs": "Gaming is Key"
+            }
+        }
+    ],
+    "blogs": [
+        {
+            "userid": 1,
+            "id": 1,
+            "title": "1st Blog Post",
+            "body": "This is the body of the 1st blog post."
+        },
+        {
+            "userid": 2,
+            "id": 2,
+            "title": "2nd Blog Post",
+            "body": "This is the body of the 2nd blog post."
+        }
+    ]
+}
